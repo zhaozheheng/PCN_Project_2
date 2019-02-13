@@ -1,7 +1,3 @@
-# CS6352 project 2
-# Zheheng Zhao
-# zxz163930
-
 from enum import Enum
 
 class Kind(Enum):

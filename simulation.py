@@ -1,7 +1,3 @@
-# CS6352 project 2
-# Zheheng Zhao
-# zxz163930
-
 import random
 import numpy as np
 import matplotlib.pyplot as plt
